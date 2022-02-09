@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdc85039-bb81-47dd-b4e7-3a7f5e71d8c0" name="Changes" comment="" />
+    <list default="true" id="bdc85039-bb81-47dd-b4e7-3a7f5e71d8c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/gftstart/exercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gftstart/exercicio3/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

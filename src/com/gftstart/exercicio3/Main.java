@@ -14,8 +14,18 @@ public class Main {
         String palavraUpperCase = palavra.toUpperCase();
 
         letras = palavraUpperCase.toCharArray();
+        int numeros = 0;
+        for (int i=0; i < letras.length  ; i++)
 
-        for
+            int x = letras[i];
+            ;
+
+             numeros+= i;
+        }
+        System.out.println(numeros);
+
+        }
+
 
     }
 }
